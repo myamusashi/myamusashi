@@ -7,6 +7,7 @@
 - 💬 Ask me about ...
 - 📫 How to reach me: ...
 - ⚡ Fun fact: ...
+<p alignt=center>
   
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=myamusashi&show_icons=true&theme=radical) ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&langs_count=8)
-
+</p>
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=myamusashi&show_icons=true&theme=radical) 
