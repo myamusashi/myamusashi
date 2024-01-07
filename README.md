@@ -5,6 +5,7 @@
 - 🤔 I’m looking for help with, i'm not actually
 - 💬 Ask me about anything
 - 📫 How to reach me: jinxprogilang666@gmail.com
+- 🌐 Check my Portofolio website: myamusashi.github.io/portofolio/
 - ⚡ Fun fact: i don't have fact
 
 <h2 align="center">Technology i use</h2>
